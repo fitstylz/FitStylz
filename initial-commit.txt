@@ -1,0 +1,6 @@
+Initial commit: FitStylz store website
+
+- Added index.html with full layout and categories
+- Set up responsive styling and navigation
+- Prepared project for future product integration
+- Created README.md with brand and usage info
